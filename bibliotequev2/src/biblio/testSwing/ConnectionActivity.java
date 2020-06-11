@@ -25,7 +25,7 @@ import java.awt.Color;
 
 public class ConnectionActivity {
 	/**
-	 * @author J.JOSEPH-ROSE
+	 * @author hassenkhalifa
 	 */
 	ConnectionFactory cn = new ConnectionFactory();
 	private Connection connection = cn.getConnection("jdbc_biblio@localhost.properties");

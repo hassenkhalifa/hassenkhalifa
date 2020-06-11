@@ -6,9 +6,7 @@ import biblio.domain.Exemplaire;
 
 public class ModelTableau extends AbstractTableModel{
 
-/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 
 private ArrayList<Exemplaire> data = new ArrayList<Exemplaire>();

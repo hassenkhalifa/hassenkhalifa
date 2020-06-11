@@ -29,7 +29,7 @@ import java.awt.EventQueue;
 
 public class EmpruntActivity extends JFrame {
 	/**
-	 * @author J.JOSEPH-ROSE
+	 * @author hassenkhalifa
 	 */
 	ConnectionFactory cn = new ConnectionFactory();
 	Connection connection = cn.getConnection("jdbc_biblio@localhost.properties");
